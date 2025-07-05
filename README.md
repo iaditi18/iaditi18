@@ -29,7 +29,7 @@
 ### ⌛ Currently Vibing On
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0abde3&center=true&vCenter=true&width=500&lines=Building+cool+web+projects...;Balancing+tech+and+aesthetics+💻🎨;Living+on+quotes+%2B+coffee+☕;Humming+Tum+Se+Hi...🎶" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=0abde3&center=true&vCenter=true&width=500&lines=Building+cool+web+projects...;Balancing+tech+and+aesthetics+💻🎨;Living+on+quotes+%2B+coffee+☕;/>
 </p>
 
 ---
