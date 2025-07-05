@@ -2,9 +2,8 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0abde3&height=200&section=header&text=Hi,%20I'm%20Aditi%20👋&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 
 <p align="center">
-🎓 Final-year CSE Student | 💻 Web Dev Enthusiast | 🎤 Musician  
+🎓 Final-year CSE Student | 💻 Web Dev Enthusiast |  
 <br>
-🪷 On a glow-up journey — confident, creative, unstoppable
 </p>
 
 ---
@@ -15,7 +14,7 @@
 - 🌱 Learning: **Web3**, **DevOps**, **AI** & **DSA** for placements  
 - 🎨 Obsessed with creating aesthetic, responsive interfaces  
 - 🧠 Exploring full-stack & open-source projects  
-- 🫶 Music is my therapy — from ghazals to raps
+
 
 ---
 
